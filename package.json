@@ -19,13 +19,13 @@
   "author": "avbel",
   "license": "MIT",
   "peerDependencies": {
-    "supertest": "^1.0"
+    "supertest": "^2.0.0"
   },
   "devDependencies": {
     "should": "~3.3.0",
     "koa": "~0.5.4",
     "mocha": "~1.18.2",
-    "supertest": "^1.0",
+    "supertest": "^2.0.0",
     "co-mocha": "0.0.2"
   }
 }
